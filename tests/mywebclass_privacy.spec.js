@@ -1,4 +1,4 @@
-// This playwright test is to check if the website has a privacy policy
+// This playwright test is to check if the website has a privacy policy and below is the code
 
 // @ts-check
 const { test, expect } = require('@playwright/test')
