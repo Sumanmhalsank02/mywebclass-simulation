@@ -67,5 +67,6 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 - [Github Pages Live site deployment](https://sumanmhalsank02.github.io/mywebclass-simulation/)
 - [Link to Wikis](https://github.com/Sumanmhalsank02/mywebclass-simulation/wiki)
 
-## Team Report
+## Team 
 - [Sprint Retrospective Report](https://github.com/Sumanmhalsank02/mywebclass-simulation/wiki/Sprint-Retrospective-Report)
+- [Team Productivity Log](https://github.com/Sumanmhalsank02/mywebclass-simulation/blob/master/team_productivity_log.md)
